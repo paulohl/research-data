@@ -1,0 +1,106 @@
+{
+  "data": {
+    "id": "10.6084/m9.figshare.26279518",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.6084/m9.figshare.26279518",
+      "prefix": "10.6084",
+      "suffix": "m9.figshare.26279518",
+      "publisher": "figshare",
+      "publicationYear": 2024,
+      "state": "findable",
+      "creators": [
+        {
+          "name": "Leocadio, Paulo",
+          "givenName": "Paulo",
+          "familyName": "Leocadio",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://orcid.org/0000-0002-4992-4541",
+              "nameIdentifierScheme": "ORCID",
+              "schemeUri": "https://orcid.org"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "Advancements in Implantable Medical Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (Revised Version)."
+        }
+      ],
+      "subjects": [
+        {
+          "subject": "Artificial intelligence not elsewhere classified",
+          "classificationCode": "460299"
+        },
+        {
+          "subject": "Medical biotechnology diagnostics (incl. biosensors)",
+          "classificationCode": "320602"
+        },
+        {
+          "subject": "Software engineering not elsewhere classified",
+          "classificationCode": "461299"
+        },
+        {
+          "subject": "Microelectronics",
+          "classificationCode": "400908"
+        }
+      ],
+      "dates": [
+        { "date": "2024-07-15", "dateType": "Created" },
+        { "date": "2024-07-12", "dateType": "Issued" },
+        { "date": "2026-03-28", "dateType": "Updated" }
+      ],
+      "types": {
+        "ris": "JOUR",
+        "bibtex": "article",
+        "citeproc": "article-journal",
+        "schemaOrg": "ScholarlyArticle",
+        "resourceType": "Journal contribution",
+        "resourceTypeGeneral": "JournalArticle"
+      },
+      "relatedIdentifiers": [
+        {
+          "relatedIdentifier": "10.6084/m9.figshare.26277886",
+          "relatedIdentifierType": "DOI",
+          "relationType": "IsNewVersionOf"
+        },
+        {
+          "relatedIdentifier": "10.6084/m9.figshare.24520621",
+          "relatedIdentifierType": "DOI",
+          "relationType": "Cites"
+        },
+        {
+          "relatedIdentifier": "10.6084/m9.figshare.21096010",
+          "relatedIdentifierType": "DOI",
+          "relationType": "Cites"
+        }
+      ],
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "rightsIdentifier": "cc-by-4.0"
+        }
+      ],
+      "metrics": {
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 0
+      },
+      "url": "https://figshare.com/articles/journal_contribution/.../26279518"
+    },
+    "relationships": {
+      "references": {
+        "data": [
+          { "id": "10.6084/m9.figshare.24520621", "type": "dois" },
+          { "id": "10.6084/m9.figshare.21096010", "type": "dois" }
+        ]
+      },
+      "citations": {
+        "data": []
+      }
+    }
+  }
+}
