@@ -1,0 +1,128 @@
+{
+  "id": "https://doi.org/10.6084/m9.figshare.26279518.v2",
+  "doi": "10.6084/M9.FIGSHARE.26279518.V2",
+  "url": "https://figshare.com/articles/journal_contribution/Advancements_in_I_mplantable_M_e_d_i_ca_l_Devices_A_Comprehensive_Analysis_of_Artificial_Intelligence_Integration_Adoption_and_Applicability_in_Bio_Tech_Innovations_Revised_Version_/26279518/2",
+  "types": {
+    "ris": "RPRT",
+    "bibtex": "article",
+    "citeproc": "article-journal",
+    "schemaOrg": "ScholarlyArticle",
+    "resourceType": "Journal contribution",
+    "resourceTypeGeneral": "Text"
+  },
+  "creators": [
+    {
+      "name": "Leocadio, Paulo",
+      "givenName": "Paulo",
+      "familyName": "Leocadio",
+      "nameIdentifiers": [
+        {
+          "schemeUri": "https://orcid.org",
+          "nameIdentifier": "https://orcid.org/0000-0002-4992-4541",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ]
+    }
+  ],
+  "titles": [
+    {
+      "title": "Advancements in I​mplantable ​M​e​d​​i​ca​l Devices: A Comprehensive Analysis of Artificial Intelligence Integration, Adoption, and Applicability in Bio-Tech Innovations (Revised Version)."
+    }
+  ],
+  "publisher": {
+    "name": "figshare"
+  },
+  "container": {},
+  "subjects": [
+    {
+      "subject": "Artificial intelligence not elsewhere classified",
+      "schemeUri": "http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E",
+      "subjectScheme": "ANZSRC Fields of Research",
+      "classificationCode": "460299"
+    },
+    {
+      "subject": "Medical biotechnology diagnostics (incl. biosensors)",
+      "schemeUri": "http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E",
+      "subjectScheme": "ANZSRC Fields of Research",
+      "classificationCode": "320602"
+    },
+    {
+      "subject": "Software engineering not elsewhere classified",
+      "schemeUri": "http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E",
+      "subjectScheme": "ANZSRC Fields of Research",
+      "classificationCode": "461299"
+    },
+    {
+      "subject": "Microelectronics",
+      "schemeUri": "http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E",
+      "subjectScheme": "ANZSRC Fields of Research",
+      "classificationCode": "400908"
+    }
+  ],
+  "contributors": [],
+  "dates": [
+    {
+      "date": "2024-07-15",
+      "dateType": "Created"
+    },
+    {
+      "date": "2024-07-15",
+      "dateType": "Updated"
+    },
+    {
+      "date": "2024",
+      "dateType": "Issued"
+    }
+  ],
+  "publicationYear": 2024,
+  "identifiers": [],
+  "sizes": [
+    "372585 Bytes"
+  ],
+  "formats": [],
+  "rightsList": [
+    {
+      "rights": "Creative Commons Attribution 4.0 International",
+      "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+      "schemeUri": "https://spdx.org/licenses/",
+      "rightsIdentifier": "cc-by-4.0",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "This article offers a comprehensive analysis of the integration, adoption, and applicability of Artificial Intelligence (AI) in the realm of implantable medical devices. Moving beyond singular case studies, including BIOTRONIK's notable contributions, this study takes a global perspective, encompassing various manufacturers, researchers, and diverse innovations within the biotech industry.The article begins by examining the intersection of AI and implantable medical devices, recognizing the transformative impact of AI technologies on healthcare. Highlighting the indispensable role of AI in advancing biotech innovations, the study emphasizes the potential to revolutionize patient care through real-time insights, predictive analytics, and adaptive functionalities.The purpose of this research is to conduct a thorough and nuanced analysis of the current state of AI integration in implantable medical devices, extending beyond specific manufacturers to include a diverse array of global advancements. Drawing insights from varied researche​rs and published articles ensures a diverse and scholarly foundation for the analysis.The scope of coverage spans from general trends in AI and healthcare, as documented by, to specific case studies of AI-integrated implantable devices from multiple sources [2]. A comparative analysis critically assesses the strengths and weaknesses of these device​s, offering insights into the competitive and complementary aspects of their functionalities.In conclusion, this article contributes to the scholarly discourse surrounding AI in biotech, presenting insights that may shape the trajectory of future research and development in the field. The synthesis of diverse perspectives and innovations provides a holistic understanding of the achievements and challenges within the broader context of AI integration in implantable medical devices.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "geoLocations": [],
+  "fundingReferences": [],
+  "relatedIdentifiers": [
+    {
+      "relationType": "IsIdenticalTo",
+      "relatedIdentifier": "10.6084/m9.figshare.26279518",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "IsNewVersionOf",
+      "relatedIdentifier": "10.6084/m9.figshare.26277886",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "Cites",
+      "relatedIdentifier": "10.6084/m9.figshare.24520621",
+      "relatedIdentifierType": "DOI"
+    },
+    {
+      "relationType": "Cites",
+      "relatedIdentifier": "10.6084/m9.figshare.21096010",
+      "relatedIdentifierType": "DOI"
+    }
+  ],
+  "relatedItems": [],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "providerId": "otjm",
+  "clientId": "figshare.ars",
+  "agency": "datacite",
+  "state": "findable"
+}
